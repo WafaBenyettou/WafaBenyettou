@@ -5,11 +5,11 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/02/fe/62/02fe627668f0f9b589ad1d3b01ac6000.gif">
 
 
-- 🔭 I’m currently working on **Salamet**
+- 🔭 I’m currently working on **Myself**
 
 - 📝 I regularly write articles on [https://www.facebook.com/algerium.dz](https://www.facebook.com/algerium.dz)
 
-- 💬 Ask me about **Operating Systems**
+- 💬 Ask me about **Nothing**
 
 - 📫 How to reach me **benwafa951@gmail.com**
 
