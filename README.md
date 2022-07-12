@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://www.facebook.com/algerium.dz](https://www.facebook.com/algerium.dz)
 
-- 💬 Ask me about **life :D **
+- 💬 Ask me about **life**
 
 - 📫 How to reach me **benwafa951@gmail.com**
 
