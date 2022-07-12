@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/02/fe/62/02fe627668f0f9b589ad1d3b01ac6000.gif">
 
 
-- 🔭 I’m currently learning on **javascript**
+- 🔭 I’m currently learning more about **javascript**
 
 - 📝 I regularly write articles on [https://www.facebook.com/algerium.dz](https://www.facebook.com/algerium.dz)
 
