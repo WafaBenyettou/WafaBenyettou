@@ -13,7 +13,6 @@
 
 - 📫 How to reach me **benwafa951@gmail.com**
 
-- 😔 unavailble on social medias right now :(
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
