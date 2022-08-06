@@ -2,7 +2,7 @@
 <h3 align="center">A passionate computer science student from Algeria</h3>
 
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/02/fe/62/02fe627668f0f9b589ad1d3b01ac6000.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/3xz2Bw12fe9iyG06v6/giphy.gif">
 
 
 - 🔭 I’m currently learning more about **javascript**
