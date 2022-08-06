@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wafa Nesrine BENYETTOU</h1>
-<h3 align="center">A passionate computer science student from Algeria
-</h3>
+
 
 <p>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/3xz2Bw12fe9iyG06v6/giphy.gif">
