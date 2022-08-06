@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Wafa Nesrine BENYETTOU</h1>
+<h1 align="center">Hi 👋, I'm Wafa</h1>
 
 
 <p>
