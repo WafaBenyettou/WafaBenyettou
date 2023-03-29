@@ -1,3 +1,4 @@
+###
 <h1 align="center"><i>“Simplicity is the soul of efficiency”<i></h1>
 
 <div align="center">
@@ -6,6 +7,9 @@
   
   </div>
 
+###
+  
+###
 <!-- Social badges -->
 <p align="center">
   <a href="[Your Website URL]"><img alt="Website" src="https://img.shields.io/badge/Website-[Your Website Color]?style=flat-square&logo=google-chrome&logoColor=white"></a>
@@ -14,6 +18,8 @@
   <a href="[Your Instagram URL]"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-[Your Instagram Color]?style=flat-square&logo=instagram&logoColor=white"></a>
   <a href="[Your Medium URL]"><img alt="Medium" src="https://img.shields.io/badge/Medium-[Your Medium Color]?style=flat-square&logo=medium&logoColor=white"></a>
 </p>
+
+###
 
 <img align='right' src="https://media.giphy.com/media/AIAkw0wxZE9zgaXfIc/giphy-downsized-large.gif" width="230">
   
@@ -27,27 +33,45 @@
   - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
 </br>
+  
+###
+  
+---
+  <div><img align="left" src="https://media.giphy.com/media/Eeruyn15oqbCJtkaw4/giphy.gif" height="330px" width ="330px">  <img align="left" src="https://media.giphy.com/media/J5wmYdkKo3WcpNviBy/giphy.gif" height="330px" width ="330px"> 
+</div>
+  
+---
+  
+###
 
----
-  <img align="left" src="https://media.giphy.com/media/Eeruyn15oqbCJtkaw4/giphy.gif" height="330px" width ="330px"> 
-  <img align="left" src="https://media.giphy.com/media/J5wmYdkKo3WcpNviBy/giphy.gif" height="330px" width ="330px"> 
-  <img align="left" src="https://media.giphy.com/media/Eeruyn15oqbCJtkaw4/giphy.gif" height="330px" width ="330px"> 
----
-  <div>
+###
+  
 <h1 align="center"><i>Check out my GitHub<i></h1>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wafabenyettou&" alt="wafabenyettou" /></p>
-  <br/>
+<div align="center">  
 
+  <div>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wafabenyettou&" alt="wafabenyettou" /></p>
+
+  </div>
+  </div>
+  
+###
+  
   <h2 align="center"> Github Statistics 📈 </h2>
   
-  <div align="center"> 
+### 
+  
+  
+  ###
+  
+  <div align="center">
      <a href="">
       <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=WafaBenyettou&show_icons=true&include_all_commits=true&count_private=true&line_height=40" />
     </a>
     <a href="">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WafaBenyettou&line_height=40&hide=css"/>
     </a>
-</div
-  
-<br/>
   </div>
+  
+ ###
+  
