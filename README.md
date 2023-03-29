@@ -32,9 +32,10 @@
   
   <br>
 <img align="left" src="https://media.giphy.com/media/Eeruyn15oqbCJtkaw4/giphy.gif" height="430px" width ="345px"> <img align="right" src="https://media.giphy.com/media/J5wmYdkKo3WcpNviBy/giphy.gif" height="430px" width ="345px"> 
+  
   <div>
     
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31uknioe7rdafykr6gowc5ueskd4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://github.com/kittinan/spotify-github-profile)  
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31uknioe7rdafykr6gowc5ueskd4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
   </div>
 
