@@ -31,7 +31,7 @@
   ---
   
   <br>
-<img align="left" src="https://media.giphy.com/media/Eeruyn15oqbCJtkaw4/giphy.gif" height="320px" width ="350px"> <img align="right" src="https://media.giphy.com/media/J5wmYdkKo3WcpNviBy/giphy.gif" height="320px" width ="350px"> 
+<img align="left" src="https://media.giphy.com/media/Eeruyn15oqbCJtkaw4/giphy.gif" height="330px" width ="330px"> <img align="right" src="https://media.giphy.com/media/J5wmYdkKo3WcpNviBy/giphy.gif" height="330px" width ="330px"> 
   
   <div>
     
