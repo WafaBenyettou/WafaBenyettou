@@ -6,6 +6,7 @@
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF008F&width=435&lines=Hello+people+%3C3+!!!;Welcome+to+my+GitHub+account+%3C3;i+am+wafa%2C;A+simple+girl+who+loves+Computer+Science+!!!;please+suit+yourself)](https://git.io/typing-svg) 
   
   </div>
+  
 
 ###
   
@@ -34,31 +35,21 @@
 
 </br>
   
-###
-  
-###
 
-<div align="center" >
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wafabenyettou&" alt="wafabenyettou" /></p>
-</div> 
-   
-###
+<div align="center">
+ 
   
+ [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31uknioe7rdafykr6gowc5ueskd4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+  
+  
+  <br/>
 
-  <h2 align="center"> Github Statistics 📈 </h2>
-  
-### 
-  
-  
-###
-  
-  <div align="center">
-     <a href="">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=WafaBenyettou&show_icons=true&include_all_commits=true&count_private=true&line_height=40" />
-    </a>
-    <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WafaBenyettou&line_height=40&hide=css"/>
-    </a>
+ 
+
+![](https://github-readme-stats.vercel.app/api?username=WafaBenyettou&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/><br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=WafaBenyettou&theme=dracula&hide_border=false)<br/><br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=WafaBenyettou&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/><br/>
+
   </div>
   
  ###
