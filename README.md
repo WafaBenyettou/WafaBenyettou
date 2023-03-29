@@ -36,30 +36,25 @@
   
 ###
   
----
-  <div><img align="left" src="https://media.giphy.com/media/Eeruyn15oqbCJtkaw4/giphy.gif" height="330px" width ="330px">  <img align="left" src="https://media.giphy.com/media/J5wmYdkKo3WcpNviBy/giphy.gif" height="330px" width ="330px"> 
-</div>
-  
----
-  
-###
 
-###
   
-<h1 align="center"><i>Check out my GitHub<i></h1>
-<div align="center">  
+<img align="left" src="https://media.giphy.com/media/Eeruyn15oqbCJtkaw4/giphy.gif" height="250px" width ="250px"> <img align="left" src="https://media.giphy.com/media/J5wmYdkKo3WcpNviBy/giphy.gif" height="250px" width ="250px"> <img align="left" src="https://media.giphy.com/media/Eeruyn15oqbCJtkaw4/giphy.gif" height="250px" width ="250px"> 
 
-  <div>
+
+
+  
+
+
+
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wafabenyettou&" alt="wafabenyettou" /></p>
 
-  </div>
-  </div>
-  
-###
+
+   
+  ###
   
   <h2 align="center"> Github Statistics 📈 </h2>
   
-### 
+  ### 
   
   
   ###
