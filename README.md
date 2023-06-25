@@ -60,7 +60,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=WafaBenyettou&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/><br/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=WafaBenyettou&theme=dracula&hide_border=false)<br/><br/>
+![](https://camo.githubusercontent.com/daab2f150c741353e864fcb8dd5935a88696626a3927635417f4a5dd8c8be6b2/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d5761666142656e796574746f75267468656d653d64726163756c6126686964655f626f726465723d66616c7365)<br/><br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=WafaBenyettou&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/><br/>
 
