@@ -14,8 +14,8 @@
 <!-- Social badges -->
 <p align="center">
   <a href="[Your Website URL]"><img alt="Website" src="https://img.shields.io/badge/Website-[Your Website Color]?style=flat-square&logo=google-chrome&logoColor=white"></a>
-  <a href="[Your LinkedIn URL]"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-[Your LinkedIn Color]?style=flat-square&logo=linkedin&logoColor=white"></a>
-  <a href="[Your Twitter URL]"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-[Your Twitter Color]?style=flat-square&logo=twitter&logoColor=white"></a>
+  <a href="[https://www.linkedin.com/in/wafa-nesrine-benyettou-726b25215/]"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-[Your LinkedIn Color]?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="[https://twitter.com/WafaoBen]"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-[Your Twitter Color]?style=flat-square&logo=twitter&logoColor=white"></a>
   <a href="[Your Instagram URL]"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-[Your Instagram Color]?style=flat-square&logo=instagram&logoColor=white"></a>
   <a href="[Your Medium URL]"><img alt="Medium" src="https://img.shields.io/badge/Medium-[Your Medium Color]?style=flat-square&logo=medium&logoColor=white"></a>
 </p>
@@ -25,12 +25,12 @@
 <img align='right' src="https://media.giphy.com/media/AIAkw0wxZE9zgaXfIc/giphy-downsized-large.gif" width="230">
   
 ### About me 
-  - 🔭 &nbsp; I’m currently learning cybersec
+  - 🔭 &nbsp; I’m currently learning cybersecurity.
   - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-  - 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
-  - 🌱 &nbsp; Enthusiast in cyber Security and Software Eng .
+  - 🎓 &nbsp; Studying Computer Science - Information Systems Security.
+  - 🌱 &nbsp; Enthusiast in cyber Security and Software Engineering.  
   - ✍️ &nbsp; Trying out latest design trends as hobbies/side hustles.
-  - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
+  - ☕ &nbsp; I believe a perfect cup of coffee can be the ultimate solution for any stress. 
 
 </br>
 
