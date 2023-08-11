@@ -17,7 +17,7 @@
   <a href="https://www.linkedin.com/in/wafa-nesrine-benyettou-726b25215/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-[Your LinkedIn Color]?style=flat-square&logo=linkedin&logoColor=white"></a>
   <a href="https://twitter.com/WafaoBen"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-[Your Twitter Color]?style=flat-square&logo=twitter&logoColor=white"></a>
   <a href="[Your Instagram URL]"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-[Your Instagram Color]?style=flat-square&logo=instagram&logoColor=white"></a>
-  <a href="[Your Medium URL]"><img alt="Medium" src="https://img.shields.io/badge/Medium-[Your Medium Color]?style=flat-square&logo=medium&logoColor=white"></a>
+  <a href="https://medium.com/@benwafa951"><img alt="Medium" src="https://img.shields.io/badge/Medium-[Your Medium Color]?style=flat-square&logo=medium&logoColor=white"></a>
 </p>
 
 ###
